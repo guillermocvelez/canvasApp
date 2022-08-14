@@ -1,0 +1,17 @@
+#app{
+  display: flex;
+  flex-direction: column;
+}
+
+#canvas {
+  border: 1px solid red;
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.buttons-container{
+  margin-top: 32px;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
